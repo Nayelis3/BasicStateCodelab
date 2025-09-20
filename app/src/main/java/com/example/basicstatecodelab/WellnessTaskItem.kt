@@ -50,7 +50,6 @@ fun WellnessTaskItem(
 }
 
 
-
 @Composable
 fun WellnessTaskItem(
     taskName: String, onClose: () -> Unit, modifier: Modifier = Modifier
